@@ -1,4 +1,4 @@
-# Firefox-Classic-Theme-155-157
+# Firefox-Classic-Theme-155-158
 ## Installation
 
 In a new tab, type **about:config** in the address bar and press Enter. Click the button accepting the risk. Search for **toolkit.legacyUserProfileCustomizations.stylesheets** and switch it's value from false to true.
